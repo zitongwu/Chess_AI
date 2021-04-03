@@ -29,6 +29,6 @@ For example, game.board.set_board_fen(“rnbqkbn1/ppppppp1/8/7p/1PPPPP2/4r3/P5PP
 5. Avoid search beyond depth 5, as it takes a very long time.
 
 ## Examples  
-<img src="images/example1.png" height="1000"/>  
+<img src="images/example1.png" width="300"/>  
 ...
-<img src="images/example2.png" height="1000"/>  
+<img src="images/example2.png" width="300"/>  
