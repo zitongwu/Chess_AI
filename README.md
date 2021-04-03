@@ -27,3 +27,8 @@ For example, game.board.set_board_fen(“rnbqkbn1/ppppppp1/8/7p/1PPPPP2/4r3/P5PP
 4. The prints the player information, the best move and its evaluation value, and the result of the game. 
 
 5. Avoid search beyond depth 5, as it takes a very long time.
+
+## Examples
+<img src="images/example1.png" height="600"/>  
+...
+<img src="images/example2.png" height="600"/>  
